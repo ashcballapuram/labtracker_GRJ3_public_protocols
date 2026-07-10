@@ -1,0 +1,1081 @@
+{
+  "references": [],
+  "editor_content": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "dayBlock",
+        "attrs": {
+          "title": "Day 1",
+          "reminder": "Pre-drug the cells"
+        },
+        "content": [
+          {
+            "type": "orderedList",
+            "attrs": {
+              "type": null,
+              "start": 1
+            },
+            "content": [
+              {
+                "type": "listItem",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "Add AC220 and DOX to cells.",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "dayBlock",
+        "attrs": {
+          "title": "Day 2",
+          "reminder": ""
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "Incubation Continues",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "dayBlock",
+        "attrs": {
+          "title": "Day 3",
+          "reminder": "Start Preparing CC3 Plates"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            }
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "Preparing Plates",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "1.     Spin plates down at ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          },
+          {
+            "text": "300 RCF",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ]
+          },
+          {
+            "text": " for 5 minutes.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "2.     Flick plate",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "3.     Wash the wells with PBS.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "4.     Spin plates down at ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          },
+          {
+            "text": "300 RCF",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ]
+          },
+          {
+            "text": " for 5 minutes.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "5.     Flick plates",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": " ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "Fix and Perm Plates",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "reagentBlock",
+        "attrs": {
+          "unit": "mL",
+          "vendor": "Thomas Scientific",
+          "quantity": 20,
+          "reagentId": "local-reagent-1783706388864",
+          "reagentName": "16% Paraformaldehyde"
+        }
+      },
+      {
+        "type": "reagentBlock",
+        "attrs": {
+          "unit": "mL",
+          "vendor": "Thermo Fischer",
+          "quantity": 20,
+          "reagentId": "local-reagent-1783706415832",
+          "reagentName": "100% Methanol"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "6.     Prepare 4% Paraformaldehyde.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "7.     Add 200mL of 4% PFA per well.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "8.     Incubate in dark at room temperature for 10 minutes.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "9.     Spin plates down at ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          },
+          {
+            "text": "900 RCF",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ]
+          },
+          {
+            "text": " for 5 minutes.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "10.  Flick plate",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "11.  Add 200mL of ice-cold methanol.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "12.  ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "text": "Incubate in the dark at -20C for at least 30 minutes. ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          },
+          {
+            "text": "STOP POINT",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
+      },
+      {
+        "type": "dayBlock",
+        "attrs": {
+          "title": "Day 4",
+          "reminder": "Continue processing CC3 "
+        },
+        "content": [
+          {
+            "type": "reagentBlock",
+            "attrs": {
+              "unit": "mL",
+              "vendor": "Lab Made",
+              "quantity": 10,
+              "reagentId": "local-reagent-1783706474333",
+              "reagentName": "FACS Buffer"
+            }
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "13.  Spin plates down at ",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "900 RCF",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ]
+              },
+              {
+                "text": " for 5 minutes.",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "14.  Flick plate.",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "15.  Wash with cold FACS Buffer",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "16.  Spin plates down at ",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              },
+              {
+                "text": "900 RCF",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  },
+                  {
+                    "type": "underline"
+                  }
+                ]
+              },
+              {
+                "text": " for 5 minutes.",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "attrs": {
+              "textAlign": null
+            },
+            "content": [
+              {
+                "text": "17.  Flick plate.",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "textStyle",
+                    "attrs": {
+                      "color": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": " ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "reagentBlock",
+        "attrs": {
+          "unit": "µL",
+          "vendor": "BD Biosciences",
+          "quantity": 100,
+          "reagentId": "local-reagent-1783706525248",
+          "reagentName": "Cleaved Caspase 3"
+        }
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "Staining for Cleaved-Caspase 3",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "18.  Prepare Cleave Caspase 3 antibody at 1:50 dilution.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "19.  Add 50mL of antibody to each well.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "20.  Incubate for 30 minutes.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "21.  Add 150mL of cold FACS Buffer.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "22.  Spin plates down at ",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          },
+          {
+            "text": "900 RCF",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              },
+              {
+                "type": "underline"
+              }
+            ]
+          },
+          {
+            "text": " for 5 minutes.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "23.  Flick plate.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "24.  Resuspend pellet in 200mL of cold FAC Buffer.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "25.  The plates are now ready to read on Attune",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "26.  For each plate set the following parameters on Attune",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "a.     Create new experiment.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "b.     Add 1 group",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "c.     Add the appropriate wells to group",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "d.     Set FSC voltage to 100V – 150V.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "e.     Set SSC voltage to 350V.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        },
+        "content": [
+          {
+            "text": "f.      Set VL1 voltage to 360V.",
+            "type": "text",
+            "marks": [
+              {
+                "type": "textStyle",
+                "attrs": {
+                  "color": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "attrs": {
+          "textAlign": null
+        }
+      }
+    ]
+  }
+}
